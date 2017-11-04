@@ -541,6 +541,9 @@ footer .down-menu .contact-us {
   .athlets div:nth-child(5) p {
     color: #ffffff;
   }
+  .players {
+    overflow: hidden;
+  }
   .players img {
     position: absolute;
     left: 44%;
